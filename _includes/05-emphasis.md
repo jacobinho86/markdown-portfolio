@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. I am not.
+2. a **very**.
+3. communicative or.
+4. _concise_ ~~person~~.
